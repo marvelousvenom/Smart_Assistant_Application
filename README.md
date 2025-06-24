@@ -55,21 +55,5 @@ Then open in your browser:
 http://localhost:8501
 
 
-SAMPLE IMAGES
-
-## 📸 Screenshots
-
-### 📂 Upload Document Section
-![Upload](image-1.png)
-
-### 🧠 Auto Summary
-![Auto Summary](image-2.png)
-
-### ❓ Ask Anything Mode
-![Ask Anything](image-3.png)
-
-### 🎯 Challenge Me Mode
-![Challenge Me](image-4.png)
-
 
 
