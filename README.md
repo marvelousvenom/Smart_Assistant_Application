@@ -55,5 +55,14 @@ Then open in your browser:
 http://localhost:8501
 
 
+SAMPLE IMAGES
+
+![Screenshot 2025-06-24 220411](https://github.com/user-attachments/assets/15ab4d47-f8c6-4602-b491-0279f0bd6b9d)
+
+![Screenshot 2025-06-24 220429](https://github.com/user-attachments/assets/c08b452a-519d-4bb7-8462-3442489abede)
+
+![Screenshot 2025-06-24 220450](https://github.com/user-attachments/assets/2e5f06b0-0c09-4143-ba55-77a224501724)
+
+![Screenshot 2025-06-24 220519](https://github.com/user-attachments/assets/29bba190-d1fd-45b2-af1b-cd6e5aa94bea)
 
 
