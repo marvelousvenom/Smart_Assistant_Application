@@ -57,12 +57,19 @@ http://localhost:8501
 
 SAMPLE IMAGES
 
-![Screenshot 2025-06-24 220411](https://github.com/user-attachments/assets/15ab4d47-f8c6-4602-b491-0279f0bd6b9d)
+## 📸 Screenshots
 
-![Screenshot 2025-06-24 220429](https://github.com/user-attachments/assets/c08b452a-519d-4bb7-8462-3442489abede)
+### 📂 Upload Document Section
+![Upload](image-1.png)
 
-![Screenshot 2025-06-24 220450](https://github.com/user-attachments/assets/2e5f06b0-0c09-4143-ba55-77a224501724)
+### 🧠 Auto Summary
+![Auto Summary](image-2.png)
 
-![Screenshot 2025-06-24 220519](https://github.com/user-attachments/assets/29bba190-d1fd-45b2-af1b-cd6e5aa94bea)
+### ❓ Ask Anything Mode
+![Ask Anything](image-3.png)
+
+### 🎯 Challenge Me Mode
+![Challenge Me](image-4.png)
+
 
 
