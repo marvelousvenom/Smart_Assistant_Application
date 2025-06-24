@@ -21,10 +21,13 @@ This application allows users to upload a PDF or TXT document, generates a summa
 git clone https://github.com/marvelousvenom/Smart_Assistant_Application.git
 cd Smart_Assistant_Application
 2. Create virtual environment (recommended)
-bash
-Copy
-Edit
 python -m venv assistant_env
 assistant_env\Scripts\activate  # On Windows
 # OR
 source assistant_env/bin/activate  # On Mac/Linux
+3. Install all required packages
+pip install -r requirements.txt
+4. Run the Streamlit application
+streamlit run app.py
+Then open in your browser:
+http://localhost:8501
