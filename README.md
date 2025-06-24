@@ -13,6 +13,28 @@ This application allows users to upload a PDF or TXT document, generates a summa
 
 ---
 
+ Architecture / Reasoning Flow:
+ 
+Step 1: Upload PDF or TXT document
+      
+Step 2: Extract text using pdfminer (PDF) or read (TXT)
+        
+Step 3: Generate automatic summary using BART model
+        
+Step 4: User selects interaction mode:
+
+    [Ask Anything]
+        → User types a question
+        → DistilBERT QA model searches document
+        → Returns answer + justification
+
+    [Challenge Me]
+        → GPT-2 generates 3 logic-based questions
+        → User submits answers
+        → System compares answers and gives feedback
+Step 5: All answers grounded in document content (no hallucinations)
+
+
 ##  Setup Instructions
 
 ### Clone the repository
@@ -31,3 +53,7 @@ pip install -r requirements.txt
 streamlit run app.py
 Then open in your browser:
 http://localhost:8501
+
+
+
+
